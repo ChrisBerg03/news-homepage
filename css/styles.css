@@ -32,6 +32,12 @@ body {
     padding-bottom: 32px;
 }
 
+.menu-button {
+    display: flex;
+    align-items: center;
+}
+
+
 .first-content {
     grid-area: first-content;
     word-break: break-all;
